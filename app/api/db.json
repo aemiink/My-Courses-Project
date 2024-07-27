@@ -1,0 +1,35 @@
+{
+    "courses":[
+        {
+            "id" : 1,
+
+            "Content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi ullam quod aliquid minus magnam facilis aut maiores suscipit reiciendis magni consectetur, quaerat pariatur dolore dolorem repellat eius voluptates laboriosam, maxime impedit perferendis beatae molestias repudiandae quisquam! Minus, fuga? Quo, excepturi.",
+            "Title":"Lua",
+            "Price" : "9.000 ₺"
+        },
+        {
+            "id" : 2,
+            "Content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi ullam quod aliquid minus magnam facilis aut maiores suscipit reiciendis magni consectetur, quaerat pariatur dolore dolorem repellat eius voluptates laboriosam, maxime impedit perferendis beatae molestias repudiandae quisquam! Minus, fuga? Quo, excepturi.",
+            "Title":"Python",
+            "Price" : "14.000 ₺"
+        },
+        {
+            "id" : 3,
+            "Content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi ullam quod aliquid minus magnam facilis aut maiores suscipit reiciendis magni consectetur, quaerat pariatur dolore dolorem repellat eius voluptates laboriosam, maxime impedit perferendis beatae molestias repudiandae quisquam! Minus, fuga? Quo, excepturi.",
+            "Title":"Unity",
+            "Price" : "15.000 ₺"
+        },
+        {
+            "id" : 4,
+            "Content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi ullam quod aliquid minus magnam facilis aut maiores suscipit reiciendis magni consectetur, quaerat pariatur dolore dolorem repellat eius voluptates laboriosam, maxime impedit perferendis beatae molestias repudiandae quisquam! Minus, fuga? Quo, excepturi.",
+            "Title":"Web Developer",
+            "Price" : "12.000 ₺"
+        },
+        {
+            "id" : 5,
+            "Content" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi ullam quod aliquid minus magnam facilis aut maiores suscipit reiciendis magni consectetur, quaerat pariatur dolore dolorem repellat eius voluptates laboriosam, maxime impedit perferendis beatae molestias repudiandae quisquam! Minus, fuga? Quo, excepturi.",
+            "Title":"Graphic Design",
+            "Price" : "7.000 ₺"
+        }
+    ]
+}
